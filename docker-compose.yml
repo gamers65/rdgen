@@ -11,6 +11,6 @@ services:
       PROTOCOL: "https"
       REPONAME: "rdgen"
     ports:
-      - "8080:8080"
+      - "8000:8000"
     dns:
       - 8.8.8.8
